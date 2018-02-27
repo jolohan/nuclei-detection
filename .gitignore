@@ -1,0 +1,7 @@
+.idea
+__pycache__
+data/*
+*.pyc
+*.npy
+sub-dsbowl2018.csv
+
